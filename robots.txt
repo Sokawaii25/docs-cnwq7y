@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ibzb99.salamcuanwin.xyz/sitemap.xml
